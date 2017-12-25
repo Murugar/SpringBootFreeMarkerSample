@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootFreeMarkerSample
+Implementation-Version: 1.5.9.RELEASE
+Built-By: iqmsoft
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.8.0_73
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootFr
+ eeMarkerSample/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
